@@ -10,13 +10,11 @@ README.txt – current file.
 
 vek1_membership.zip – the zip file which contains all the code required for the membership program. Notice that the text file with the previous member data is not included within the project and requires to be inputted as a directory path within the program.
 
-vek1_membership.zip/main.c – the file, which contains code for the implementation of the simple command-line menu and manages most of the interaction with the user.
+vek1_membership/main.c – the file, which contains code for the implementation of the simple command-line menu and manages most of the interaction with the user.
 
-vek1_membership.zip/membership.c – the file, which contains all the function required for the interaction with the binary tree and performing all the actions from the menu.
+vek1_membership/membership.c – the file, which contains all the function required for the interaction with the binary tree and performing all the actions from the menu.
 
-vek1_membership.zip/membership.h – the header file, which contains the definition of the member struct and all the signatures for functions used throughout the project.
-
-vek1_screencast.mp4 — a screencast of the running program. A recording that shows the code running with a voiceover, which talks you through things happening on the screen.
+vek1_membership/membership.h – the header file, which contains the definition of the member struct and all the signatures for functions used throughout the project.
 
 vek1_evaluation.pdf – a pdf document, which talks about the code design and implementation. Contains a title page and 2 pages of text.
 
