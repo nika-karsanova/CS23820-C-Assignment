@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -Wall -Wextra -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CS23820_Assignment.dir/main.c.o CMakeFiles/CS23820_Assignment.dir/membership.c.o  -o CS23820_Assignment 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mslonova/Desktop/AberUni/Aber 2 year/Computer Science/CS23820 ASSIGNMENT/vek1_membership/main.c
+membership.h
+/Users/mslonova/Desktop/AberUni/Aber 2 year/Computer Science/CS23820 ASSIGNMENT/vek1_membership/membership.h
+
+/Users/mslonova/Desktop/AberUni/Aber 2 year/Computer Science/CS23820 ASSIGNMENT/vek1_membership/membership.h
+stdio.h
+-
+stdlib.h
+-
+strings.h
+-
+string.h
+-
+

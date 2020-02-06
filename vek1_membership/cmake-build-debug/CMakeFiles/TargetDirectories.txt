@@ -1,0 +1,3 @@
+/Users/mslonova/Desktop/AberUni/Aber 2 year/Computer Science/CS23820 ASSIGNMENT/vek1_membership/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mslonova/Desktop/AberUni/Aber 2 year/Computer Science/CS23820 ASSIGNMENT/vek1_membership/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mslonova/Desktop/AberUni/Aber 2 year/Computer Science/CS23820 ASSIGNMENT/vek1_membership/cmake-build-debug/CMakeFiles/CS23820_Assignment.dir
